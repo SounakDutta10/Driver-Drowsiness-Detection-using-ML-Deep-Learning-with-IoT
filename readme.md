@@ -54,7 +54,7 @@ To run the code, type `python Drowsiness_Detection.py`
 python Drowsiness_Detection.py
 ```
 
-###### Made with ❤️ and 🦙 by Akshay Bahadur
+###### Made with ❤️ by Sounak Dutta
 
 ## References 🔱
  
